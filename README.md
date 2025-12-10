@@ -22,10 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tizee511&theme=radical" width="48%" />
-</p>
+
 
 
 ---
@@ -34,6 +31,7 @@
 - [🧾 Laravel API Starter](https://github.com/tizee511/laravel-api-starter) – Clean architecture RESTful API boilerplate  
 - [🛒 Inventory Management System](https://github.com/tizee511/inventory-system) – Laravel-based backend for managing products and stock  
 - [⚙️ Dockerized Laravel Setup](https://github.com/tizee511/laravel-docker-setup) – Ready-to-use Laravel + Docker environment  
+- [⚙️ Dockerized Laravel Setup](https://github.com/tizee511/school-system) – A complete school management system built with Laravel 11.  
 
 ---
 
@@ -43,7 +41,7 @@
   <a href="https://x.com/tizee_511"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.facebook.com/share/1Jpv5PB4bc/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/n_78o_n.q"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:nashwanhatem@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:nashwanqiad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
