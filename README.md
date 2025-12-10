@@ -31,7 +31,7 @@
 - [🧾 Laravel API Starter](https://github.com/tizee511/laravel-api-starter) – Clean architecture RESTful API boilerplate  
 - [🛒 Inventory Management System](https://github.com/tizee511/inventory-system) – Laravel-based backend for managing products and stock  
 - [⚙️ Dockerized Laravel Setup](https://github.com/tizee511/laravel-docker-setup) – Ready-to-use Laravel + Docker environment  
-- [⚙️ Dockerized Laravel Setup](https://github.com/tizee511/school-system) – A complete school management system built with Laravel 11.  
+- [⚙️ School-Management-System](https://github.com/tizee511/school-system) – A complete school management system built with Laravel 11.  
 
 ---
 
